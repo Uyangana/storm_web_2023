@@ -1,0 +1,72 @@
+h3 {
+    font-size: 40px;
+    background-color: lavender;
+}
+div span {
+    color: rgb(213, 115, 200);
+    font-size: 30px;
+}
+p {
+    color: rgb(100, 34, 128);
+    font-size: 30px;
+}
+div i {
+    font-size: 30px;
+    background-color: blue;
+    color:white ;
+}
+body {
+    background-color: rgb(241, 174, 197);
+}
+.lesson06 h3 {
+    background-color: crimson;
+}
+.lesson06 h4 {
+    background-color: blueviolet;
+}
+.lesson06 h5{
+    background-color: darkcyan;
+}
+
+tr th {
+    background-color: lightpink;
+}
+
+tr .monday {
+    background-color: aqua;
+}
+
+ tr .tuesday {
+    background-color: honeydew;
+ }
+ tr .wednesday {
+    background-color: greenyellow;
+ }
+ tr .thursday {
+    background-color: cadetblue;
+ }
+p {
+    background-color: aqua;
+}
+.tseg {
+    background-color: darkgray;
+    width: 500px;
+    height:400px ;
+}
+.dugui {
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.durvuljin {
+    background-color: mistyrose;
+    width: 150px;
+    height: 150px;
+
+}
+
+#par {
+font-size: 20px;
+background-color: blueviolet;
+}
