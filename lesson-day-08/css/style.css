@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#top {
+    font-style: italic;
+    background-color: thistle;
+}
+#introductio {
+    font-family: fantasy;
+}
+
+ul {
+    background: thistle;
+}
+
+ul {
+    font-style: italic;
+}
+
+ul li {
+    background-color: thistle;
+    line-height: 30px;
+}
+
+.note {
+    text-align: center;
+}
+
+
+
