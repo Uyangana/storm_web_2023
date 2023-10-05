@@ -1,0 +1,31 @@
+.body{
+    width: 900px;
+    height: 750px;
+    background-color: darksalmon;
+}
+.b{
+    position: absolute;
+    left: 250px;
+    top:70px;
+}
+.uu{
+    position: absolute;
+}
+.ii {
+    background-color: yellow;
+    right: 30px;
+    height: 60px;
+    width: 550px;
+    position: absolute;
+    bottom:1px;
+}
+.temo li:hover {
+float: left;
+margin: 10px;
+filter: grayscale();
+  
+}
+.temo:hover {
+    color: aqua;
+    
+}
