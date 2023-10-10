@@ -1,0 +1,61 @@
+.blog1 {
+    background-color: rgba(13, 26, 105, 0.714);
+    color: white;
+    text-align: center;
+}
+
+.hevtee {
+    display: flex;
+    justify-content: center;
+    gap: calc(40px);
+    font-size: small;
+}
+
+.ungu {
+    color: rgb(154, 154, 190);
+}
+
+.saaral {
+    color: darkgray;
+}
+
+.css {
+
+    gap: calc(40px);
+    font-size: small;
+    background-color: green;
+    color: white;
+    width: 30px;
+    height: 20px;
+}
+
+.html {
+
+    gap: calc(40px);
+    font-size: small;
+    background-color: cornflowerblue;
+    color: white;
+    width: 30px;
+    height: 20px;
+}
+
+.tsenher {
+    color: rgba(0, 0, 255, 0.697);
+
+}
+
+.tb {
+    color: darkgrey;
+}
+
+.man {
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+}
+
+.woman {
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+}
