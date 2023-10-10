@@ -1,0 +1,28 @@
+.a {
+    background-color: rgba(0, 0, 0, 0.799);
+    color: white;
+    height: 70px;
+    text-align: center;
+    font-size: larger;
+}
+
+.b {
+    float: left;
+    margin: 10px;
+}
+
+#c {
+    background-color: rgba(0, 0, 0, 0.799);
+    height: 180px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+.tegsh {
+    display: flex;
+   justify-content:center;
+   gap:calc(40px);
+   font-size: small;
+}
