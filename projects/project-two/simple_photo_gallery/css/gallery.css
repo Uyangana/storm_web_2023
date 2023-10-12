@@ -1,0 +1,47 @@
+#page {
+    max-width: 1037px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.799);
+    color: white;
+    height: 70px;
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+
+section {
+    margin-left: 10px;
+
+}
+
+section img {
+    width: 250px;
+    height: 365px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.799);
+    height: 180px;
+    width: 100%;
+    color: white;
+}
+
+footer h1 {
+    text-align: center;
+
+}
+
+.tegsh {
+    display: flex;
+    justify-content: center;
+    gap: calc(40px);
+    font-size: small;
+    
+}
+.gallery {
+    margin-bottom: 20px;
+    text-align: center;
+}

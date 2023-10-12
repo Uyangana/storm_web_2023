@@ -1,0 +1,119 @@
+#page {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: rgb(32, 83, 83);
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.hevtee {
+    display: flex;
+    justify-content: end;
+   
+    gap: calc(40px);
+    font-size: small;
+   
+}
+
+.ungu {
+    color: rgb(37, 180, 154);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.saaral {
+    color: darkgray;
+}
+
+
+/* .html {
+
+    gap: calc(40px);
+    font-size: small;
+    background-color: cornflowerblue;
+    color: white;
+    width: 30px;
+    height: 20px;
+} */
+
+.tsenher {
+    color: rgba(0, 0, 255, 0.697);
+
+}
+
+.tb {
+    color: darkgrey;
+}
+
+.man {
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+}
+
+.woman {
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+}
+
+.eregtei {
+    border-radius: 100px;
+    width: 35px;
+    height: 35px;
+}
+
+.first {
+    display: flex;
+    width: 50%;
+    flex-wrap: nowrap;
+}
+
+header {
+    background-color: rgb(32, 83, 83);
+    color: white;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    color: darkgray;
+}
+
+.h2 {
+    color: lightskyblue;
+}
+
+.h3 {
+    background-color: crimson;
+    color: white;
+    font-size: small;
+    display: flex;
+    
+}
+
+.h5 {
+    background-color: dimgray;
+    color: white;
+    font-size: small;
+}
+
+.h4 {
+    background-color: darkgreen;
+    color: white;
+    font-size: small;
+}
+
+.h6 {
+    background-color: rgba(22, 22, 198, 0.807);
+    color: white;
+    font-size: small;
+}
