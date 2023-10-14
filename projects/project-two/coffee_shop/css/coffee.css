@@ -1,0 +1,17 @@
+#shop {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.styles {
+    background-color: rgba(65, 30, 4, 0.923);
+    color: white;
+    font-size:5px;
+    display: flex;
+}
+.first {
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    gap: calc(40px);
+}
