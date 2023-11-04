@@ -1,0 +1,23 @@
+#page {
+    width: 700px;
+    height: 700px;
+    background-color: rgb(198, 120, 120);
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0 auto;
+}
+
+#page h1 {
+    text-align: center;
+    background-color: white;
+}
+
+#page #content {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border:4px dotted rgb(255, 255, 255);
+}
+
+#page #content_two {
+    padding-left: 40px;
+}
