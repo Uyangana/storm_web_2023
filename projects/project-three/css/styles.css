@@ -1,0 +1,47 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#page {
+    margin: 0 auto;
+}
+
+header {
+    background: #013560;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: space-around;
+   
+
+}
+
+#nav-left {
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-family: Roboto;
+    font-size: 25px;
+    color:aliceblue;
+    gap:10px;
+}
+
+#nav-center ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+#nav-center ul li {
+    list-style: none;
+}
+
+#nav-center ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+main {
+    background-image: url("img/biz-header.jpg");
+}
